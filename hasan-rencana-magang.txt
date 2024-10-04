@@ -1,0 +1,8 @@
+RENCANA MAGANG MSIB
+
+- Menguasai ReactJS
+  * Membuat Project
+- Mengelola LinkedIn
+- Pemperbarui Foto LinkedIn
+  * Professional Photo
+- Mencari Lisensi Pelatihan
