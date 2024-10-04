@@ -6,6 +6,7 @@ RENCANA MAGANG MSIB
 - Pemperbarui Foto LinkedIn
   * Professional Photo
     ^ Profile Picture
+    ^ Sampul LinkedId
 - Mencari Lisensi Pelatihan
   * Top 10 Pelatihan Gratis
 - Research Seputar Mitra
