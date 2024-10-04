@@ -3,7 +3,9 @@ RENCANA MAGANG MSIB
 - Menguasai ReactJS
   * Membuat Project
 - Mengelola LinkedIn
+  * Melihat Referensi Senior Developer
 - Pemperbarui Foto LinkedIn
   * Professional Photo
+    ^ Profile Picture
+    ^ Update Bio LinkedId
 - Mencari Lisensi Pelatihan
-- Research Seputar Mitra
